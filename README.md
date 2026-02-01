@@ -17,12 +17,14 @@
 - Written entirely in Erlang
 
 ## Project Structure
+```
 ├── db.erl # Simple in-memory storage module
 ├── erchat_client.erl # Chat client implementation
 ├── erchat_server.erl # Chat server logic
 ├── records.hrl # Data record definitions
 ├── ui.erl # User interface helpers
 ├── README.md # Project documentation
+```
 
 ## Prerequisites
 To build and run erchat, ensure you have:
